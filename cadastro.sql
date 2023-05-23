@@ -1,6 +1,6 @@
 CREATE DATABASE bdCadastro;
 
-USE cdCadastro;
+USE bdCadastro;
 
 CREATE TABLE tbUsuario (
 nmUsuario varchar (20),
